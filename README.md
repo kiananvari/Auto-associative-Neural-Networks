@@ -17,5 +17,5 @@ You can see the description of the implementation method in the following file:
 
 ## Results 
 
-![App Screenshot](https://github.com/kiananvari/perceptron-learning-rule/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/Auto-associative-Neural-Networks/raw/main/Result.png)
 
