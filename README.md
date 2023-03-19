@@ -12,7 +12,7 @@ Python Implementation of Auto-associative Neural Networks
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/Auto-associative-Neural-Networks/raw/main/Documentation.pdf)
 
 
 ## Results 
